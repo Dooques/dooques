@@ -42,7 +42,11 @@ class BethnalGreenAfterSchoolClubApp() {
 ```cs
 class WorkInProgress
 {
-  string Northocders = "Currently hard at work studying and creating projects!"
+  string Northocders;
+  public WorkInProgress()
+  {
+    Northcoders = "Currently hard at work studying and creating projects!";
+  }
 }
 ```
 
