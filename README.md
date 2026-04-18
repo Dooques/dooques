@@ -8,7 +8,7 @@
       Having spent some years learning Mobile Development using Android, Jetpack compose and Kotlin, I am now branching out into Enterprise Engineering through Northcoders. 
       </p>
       <p>
-        I love to create apps that bridge gaps for communities, like my Fighting Flow app which is designed to bring the fighting game community together across games and platforms.
+        I love to create apps that bridge gaps for communities, like my Fighting Flow app which is designed to bring the fighting game community together across games and platforms and the app I'm developing for an after school club in bethnal green.
       </p>
     </td>
     
