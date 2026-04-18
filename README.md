@@ -42,7 +42,7 @@ class BethnalGreenAfterSchoolClubApp() {
 ```cs
 class WorkInProgress
 {
-  string Northocders;
+  string Northcoders;
 
   public WorkInProgress()
   {
