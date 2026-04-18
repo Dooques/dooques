@@ -6,12 +6,12 @@
   
   <p align="left">I am a developer driven by the goal of creating applications that bring joy to people and improve their communities. Currently, I am expanding my background in Kotlin mobile development into enterprise-level C# engineering through Northcoders. I specialize in building robust, scalable systems using Test Driven Development (TDD) and clean architecture
   </p>
+  </div>
+  
   <div style="flex-shrink: 0;">
     <img align="right" width="200" alt="Sam Dukes Portfolio Image" src="https://github.com/user-attachments/assets/b5b9360c-ba94-44aa-a6a6-f086918ca845" />
   </div>
 </div>
-
-
 ---
 
 ### 🖱️ What I’m Working On 🖱️
