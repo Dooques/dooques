@@ -43,6 +43,7 @@ class BethnalGreenAfterSchoolClubApp() {
 class WorkInProgress
 {
   string Northocders;
+
   public WorkInProgress()
   {
     Northcoders = "Currently hard at work studying and creating projects!";
