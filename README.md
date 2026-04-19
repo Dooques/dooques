@@ -10,6 +10,7 @@
       <p>
         I love to create apps that bridge gaps for communities, like my Fighting Flow app which is designed to bring the fighting game community together across games and platforms and the app I'm developing for an after school club in bethnal green.
       </p>
+      <br>
     </td>
     
   <td width="25%" style ="vertical-align: top; border: none;">
