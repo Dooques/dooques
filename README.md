@@ -54,7 +54,7 @@ class WorkInProgress
 
 <h3>My toolbox</h3>
 
-| Category      | Technologies                                                |
+| Category      | Technology                                                  |
 | :------------ | :---------------------------------------------------------- |
 | Languages     | Kotlin, C#, Python, SQL, T-SQL                              |
 | Backend/Cloud | .NET, Spring Boot, ASP.NET MVC, Google Cloud, AWS, Firebase |
