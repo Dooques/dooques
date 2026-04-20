@@ -27,6 +27,7 @@ class FightingFlow() {
   val tech = listOf(
     jetpackCompose,
     firebase
+)
 }
 
 class BethnalGreenAfterSchoolClubApp() {
@@ -36,6 +37,7 @@ class BethnalGreenAfterSchoolClubApp() {
     firebase,
     cloudFunctions,
     springBoot
+)
 }
 ```
 <h3>C# Projects</h3>
